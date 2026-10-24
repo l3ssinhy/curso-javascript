@@ -9,3 +9,17 @@ console.log(a * b); // Multiplicação *
 console.log(a / b); // Divisão /
 console.log(a % b); // Módulo %
 console.log(a ** b); // Potência **
+
+// Operadores Aritméticos
+console.log("--- Operadores De Comparação ---");
+let c = 8
+let d = "8"
+
+console.log(c == d); // Igual (valor) ==
+console.log(c === d); // Igual (valor e tipo) ===
+console.log(c != d); // Diferente (valor) !=
+console.log(c !== d); // Diferente (valor e tipo) !==
+console.log(c > d); // Maior >
+console.log(c >= d); // Maior ou Igual >=
+console.log(c < d); // Menor <
+console.log(c <= d); // Menor ou Igual <=
