@@ -1,8 +1,8 @@
 // Operadores Aritméticos
+console.log("--- Operadores Aritméticos ---");
 let a = 2
 let b = 9
 
-console.log("--- Operadores Aritméticos ---");
 console.log(a + b); // Soma +
 console.log(a - b); // Subtração -
 console.log(a * b); // Multiplicação *
@@ -40,3 +40,20 @@ let logado = true
 console.log(logado == false);  // Os dois são a mesma coisa
 console.log(!logado); // not ! 
 
+// Operadores de Atribuição
+console.log("--- Operadores de Atribuição ---");
+let pontos = 10
+
+// pontos = pontos + 5
+// pontos += 5
+
+// pontos = pontos - 5
+// pontos -= 5
+
+// pontos = pontos * 5
+// pontos *= 5
+
+// pontos = pontos / 5
+// pontos /= 5
+
+console.log(pontos);
