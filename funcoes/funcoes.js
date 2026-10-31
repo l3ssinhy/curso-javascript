@@ -32,10 +32,17 @@
 
 // fazerSuco("laranja")
 
-function somar(n1, n2) {
-    let result = n1 + n2
-    console.log(`${n1} + ${n2} = ${result}`); 
+// function somar(n1, n2) {
+//     let result = n1 + n2
+//     console.log(`${n1} + ${n2} = ${result}`); 
+// }
+
+// somar(4, 2)
+// somar(7, 9)
+
+function dobro(num) {
+    let dobro = num * 2
+    console.log(`O dobro de ${num} é ${dobro}`)
 }
 
-somar(4, 2)
-somar(7, 9)
+dobro(3)
