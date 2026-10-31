@@ -21,6 +21,20 @@
 //     }
 // }
 
-for (let i = 0; i <= 50; i += 5) {
-    console.log(i)
+// for (let i = 0; i <= 50; i += 5) {
+//     console.log(i)
+// }
+
+// While
+
+// let i = 1
+
+// while (i <= 5) {
+//     console.log(i++);
+// }
+
+let i = 50
+
+while (i >= 0) {
+    console.log(i--);
 }
