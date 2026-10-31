@@ -29,4 +29,11 @@
 // console.log(frutas.length); // Mostra a quantidade de elementos na lista
 
 
-// ---------------------------------------------------
+// ----------------------ForEach-----------------------------
+
+
+let nome = ["Matheus", "Ana", "Igor"]
+
+nomes.forEach((elemento) => {
+    console.log(`Bom dia ${elemento}`);
+})
