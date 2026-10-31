@@ -1,4 +1,4 @@
-// Função Simples
+//----------------------Function----------------------------
 
 // function nomeDaFuncao() {
 //     console.log("================================================================================");
@@ -86,35 +86,32 @@
 //---------------------------------------------------
 
 
-function nomeCompleto(nome, sobrenome) {
-    return nome + sobrenome
-}
+// function nomeCompleto(nome, sobrenome) {
+//     return nome + sobrenome
+// }
 
-let completo = nomeCompleto("Lucas ", "Lessa")
-console.log(completo);
-
-
-//---------------------------------------------------
-
-
-function triplo(n) {
-    return n * n * n
-}
-
-let result = triplo(3)
-console.log(result);
+// let completo = nomeCompleto("Lucas ", "Lessa")
+// console.log(completo);
 
 
 //---------------------------------------------------
 
 
-function celsiusParaFahrenheit(celsius) {
-    return celsius * 1.8 + 32
-}
+// function triplo(n) {
+//     return n * n * n
+// }
 
-let conversao = celsiusParaFahrenheit(32)
-console.log(conversao);
+// let result = triplo(3)
+// console.log(result);
 
 
 //---------------------------------------------------
+
+
+// function celsiusParaFahrenheit(celsius) {
+//     return celsius * 1.8 + 32
+// }
+
+// let conversao = celsiusParaFahrenheit(32)
+// console.log(conversao);
 
