@@ -14,8 +14,15 @@
 
 // boasVindas()
 
-function dizerOla() {
-    console.log("Olá!");
+// function dizerOla() {
+//     console.log("Olá!");
+// }
+
+// dizerOla()
+
+function mostrarCurso() {
+    console.log("Curso: Desenvolvimento Web com JavaScript");
 }
 
-dizerOla()
+mostrarCurso()
+
