@@ -86,3 +86,14 @@
 //---------------------------------------------------
 
 
+function nomeCompleto(nome, sobrenome) {
+    return nome + sobrenome
+}
+
+let completo = nomeCompleto("Lucas ", "Lessa")
+console.log(completo);
+
+
+//---------------------------------------------------
+
+
