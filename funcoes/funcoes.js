@@ -108,3 +108,13 @@ console.log(result);
 //---------------------------------------------------
 
 
+function celsiusParaFahrenheit(celsius) {
+    return celsius * 1.8 + 32
+}
+
+let conversao = celsiusParaFahrenheit(32)
+console.log(conversao);
+
+
+//---------------------------------------------------
+
