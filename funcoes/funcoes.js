@@ -40,9 +40,16 @@
 // somar(4, 2)
 // somar(7, 9)
 
-function dobro(num) {
-    let dobro = num * 2
-    console.log(`O dobro de ${num} é ${dobro}`)
+// function dobro(num) {
+//     let dobro = num * 2
+//     console.log(`O dobro de ${num} é ${dobro}`)
+// }
+
+// dobro(3)
+
+function quadrado(n) {
+    return n * n
 }
 
-dobro(3)
+let result = quadrado(64)
+console.log(result);
