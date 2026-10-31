@@ -132,3 +132,10 @@
 // let result = dobrar(4)
 // console.log(result);
 
+
+//---------------------------------------------------
+
+
+const multiplicar = (n1, n2) => n1 * n2
+let result = multiplicar(2, 3)
+console.log(result);
