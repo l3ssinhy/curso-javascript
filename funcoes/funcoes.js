@@ -115,3 +115,20 @@
 // let conversao = celsiusParaFahrenheit(32)
 // console.log(conversao);
 
+
+//-----------------------Const--------------------------
+
+// const saudacao = () => {
+//     console.log("Olá!");
+// }
+
+// saudacao()
+
+
+//---------------------------------------------------
+
+
+// const dobrar = (n) => n * 2
+// let result = dobrar(4)
+// console.log(result);
+
