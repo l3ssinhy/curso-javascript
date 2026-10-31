@@ -20,9 +20,22 @@
 
 // dizerOla()
 
-function mostrarCurso() {
-    console.log("Curso: Desenvolvimento Web com JavaScript");
+// function mostrarCurso() {
+//     console.log("Curso: Desenvolvimento Web com JavaScript");
+// }
+
+// mostrarCurso()
+
+// function fazerSuco(sabor) {
+//     console.log(`Fazendo suco de ${sabor} satânico`);
+// }
+
+// fazerSuco("laranja")
+
+function somar(n1, n2) {
+    let result = n1 + n2
+    console.log(`${n1} + ${n2} = ${result}`); 
 }
 
-mostrarCurso()
-
+somar(4, 2)
+somar(7, 9)
