@@ -1,3 +1,6 @@
+//----------------------IfElse----------------------------
+
+
 // let sinal = "amarelo";
 
 // if (sinal == "verde") {
@@ -7,6 +10,10 @@
 // } else if (sinal == "vermelho") {
 //     console.log("Não acelere");
 // }
+
+
+//---------------------------------------------------
+
 
 let nota = 7
 

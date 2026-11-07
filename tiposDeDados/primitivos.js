@@ -1,19 +1,33 @@
-// String
+//-----------------------String---------------------------
+
+
 let nome = "Zazasco"
 
-// Number
+
+//-----------------------Number--------------------------
+
+
 let idade = 17
 const pi = 3.14
 let saldo = -15
 
-// Boolean
+
+//----------------------Boolean------------------------
+
+
 let maiorDeIdade = true
 let pagamentoConfirmado = false
 
-// Null
+
+//------------------------Null--------------------------
+
+
 let desconto = null
 
-// Undefined
+
+//-----------------------Undefined---------------------------
+
+
 let produto
 
 console.log(nome);

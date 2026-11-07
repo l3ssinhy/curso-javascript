@@ -1,4 +1,6 @@
-// Operadores Aritméticos
+//----------------------Operadores Aritméticos--------------------------
+
+
 console.log("--- Operadores Aritméticos ---");
 let a = 2
 let b = 9
@@ -10,7 +12,10 @@ console.log(a / b); // Divisão /
 console.log(a % b); // Módulo %
 console.log(a ** b); // Potência **
 
-// Operadores Aritméticos
+
+//----------------------Operadores De Comparação---------------------------
+
+
 console.log("--- Operadores De Comparação ---");
 
 let c = 8
@@ -25,7 +30,10 @@ console.log(c >= d); // Maior ou Igual >=
 console.log(c < d); // Menor <
 console.log(c <= d); // Menor ou Igual <=
 
-// Operadores Lógicos
+
+//------------------------Operadores Lógicos----------------------------
+
+
 console.log("--- Operadores Lógicos ---");
 
 let chocolate = true
@@ -40,7 +48,10 @@ let logado = true
 console.log(logado == false);  // Os dois são a mesma coisa
 console.log(!logado); // not ! 
 
-// Operadores de Atribuição
+
+//-----------------------Operadores De Atribuição----------------------------
+
+
 console.log("--- Operadores de Atribuição ---");
 let pontos = 10
 

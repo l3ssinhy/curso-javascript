@@ -29,7 +29,7 @@
 // console.log(frutas.length); // Mostra a quantidade de elementos na lista
 
 
-// ----------------------ForEach-----------------------------
+// --------------------------ForEach-----------------------------
 
 
 let nome = ["Matheus", "Ana", "Igor"]
